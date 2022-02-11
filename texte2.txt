@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ajout d'une petitite fichier
+=======
+petit chaton
+>>>>>>> 63be52e206db9ecb854bed14adb81b226e32b22d
